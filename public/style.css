@@ -80,7 +80,7 @@ a {
 }
 
 /* 22. Set style for links using the :hover pseudoclass */
-link:hover
+a:hover
  {
   /* 23. Change the color of links to azure on mouseover */
   color: azure;
